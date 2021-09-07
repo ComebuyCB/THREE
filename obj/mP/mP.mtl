@@ -1,0 +1,48 @@
+newmtl Fabric Editable 2_2cfad759-0400-4b6e-b77f-e9770ff46124
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Fabric_Fabric_006_Color.jpg
+newmtl Material_c053a473-d982-4fe7-9f65-5e0837fd9327
+Kd 0.710 0.459 0.165
+d 1.000
+newmtl Fabric Editable_24a60d65-85a9-4d0d-8b69-35c605378b4e
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Fabric_007_Color.jpg
+newmtl mat17_a2ba32a1-7de9-422c-8478-5ff51842f7b8
+Kd 0.270 0.350 0.390
+d 1.000
+newmtl mat23_b9d5a03e-2a1f-4567-880a-214962e2bc56
+Kd 0.100 0.100 0.100
+d 1.000
+newmtl mat24_047bcc6c-937b-4e54-a9d3-4494a9ac4395
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd colorTexture&opacityTexture.png
+newmtl mat5_3b896b76-356f-462f-8721-11ff903e8ee9
+Kd 0.010 0.610 0.900
+d 1.000
+newmtl mat8_26599776-b6f4-4876-9018-4f8635dcdf8b
+Kd 0.960 0.260 0.210
+d 1.000
+newmtl mat22_e65815cc-2625-4a05-9b3b-ff3eee97646f
+Kd 0.620 0.620 0.620
+d 1.000
+newmtl mat15_38abb7d8-2d93-4b36-859c-501d0229b332
+Kd 0.810 0.850 0.860
+d 1.000
+newmtl mat16_4cc2b533-7466-4697-aadd-8bb8bfa5c59e
+Kd 0.470 0.560 0.610
+d 1.000
+newmtl _5fdf0aae-0ce2-4764-b78a-b7572a824d63
+Kd 0.259 0.522 0.957
+d 1.000
+newmtl 0_ddc7d642-2901-41cb-b3cd-f8a42459d5a6
+Kd 0.204 0.659 0.325
+d 1.000
+newmtl 1_c27ccd15-1a3e-4b02-8a4c-1e7445a0f42f
+Kd 0.984 0.737 0.020
+d 1.000
+newmtl 2_93cc0b59-08c1-4fd5-bd2f-5fe891bdb39a
+Kd 0.922 0.263 0.208
+d 1.000
